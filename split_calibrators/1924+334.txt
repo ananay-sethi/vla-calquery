@@ -1,0 +1,11 @@
+1924+334   J2000  C 19h24m17.4839s    33d29'29.724"     Feb97
+1922+333   B1950  C 19h22m24.9283s    33d23'33.239"
+-----------------------------------------------------
+BAND        A B C D    FLUX(Jy)    UVMIN(kL)  UVMAX(kL)
+=====================================================
+ 90cm    P  S S X X          8            3
+ 20cm L  P P P P       3.88                       visplot
+ 6cm C  P P P P       1.75                       visplot
+3.7cm X  P P P P       1.18                       visplot
+  2cm    U  S S S S       0.7
+0.7cm    Q  W W W W       0.3

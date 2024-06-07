@@ -1,0 +1,11 @@
+1310+323   J2000  A 13h10m28.663845s  32d20'43.782950"  Aug01         
+1308+326   B1950  A 13h08m07.560100s  32d36'40.239000"
+-----------------------------------------------------
+BAND        A B C D    FLUX(Jy)    UVMIN(kL)  UVMAX(kL)
+=====================================================
+ 20cm L  P P S X       2.10             6         visplot
+  6cm    C  P P P P       3.5
+3.7cm X  P P P P       4.13                       visplot
+  2cm    U  P P P P       2.3  
+1.3cm K  P P P P       3.34                       visplot
+0.7cm Q  S S S S       0.94                       visplot
